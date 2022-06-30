@@ -130,7 +130,7 @@ video {
 }
 
 #secondary-content {
-    padding: 150px 0;
+    padding: 100px 50px 0;
     text-align: center;
 }
 
@@ -269,8 +269,12 @@ article h4 {
 }
 
 #hero-image2 {
-    height: 100%;
-    padding-top: 0px;
+    background-size: cover;
+    height: 965px;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
     background: #e8eced url('../images/heroimage4.jpg') no-repeat center fixed;
 }
 #hero-image3 {
